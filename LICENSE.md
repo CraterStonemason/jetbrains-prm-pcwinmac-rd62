@@ -1,4 +1,4 @@
-# 
+# Open Source JetBrains PyCharm tools for Mac OS | Instant JetBrains PyCharm tools for PC Windows. Featuring query-editor and GraphQL-support — optimized for maximum performance on every platform.
 
 
 
